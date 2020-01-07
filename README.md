@@ -7,3 +7,5 @@
 - 大家常说的前端工程化到底是什么？ For [极客时间 Live]()
 - [玩转webpack](https://github.com/cpselvis/geektime-webpack-course) For [极客时间](https://time.geekbang.org/course/intro/190)
 - [腾讯 NOW 直播前端工程体系实践](https://github.com/cpselvis/sharing/blob/master/ppt/ArchSummit2019-7-12/%E6%9C%80%E7%BB%88%E7%89%88_%E7%A8%8B%E6%9F%B3%E5%B3%B0_%E3%80%8A%E8%85%BE%E8%AE%AFNOW%E7%9B%B4%E6%92%AD%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E4%BD%93%E7%B3%BB%E5%AE%9E%E8%B7%B5%E3%80%8B.pdf) For [Arch Summit](https://sz2019.archsummit.com/presentation/1797)
+- [使用Git和VSCode高效开发](https://github.com/cpselvis/sharing/blob/master/ppt/%E7%A7%8B%E5%AD%A3%E9%AB%98%E6%A0%A1%E6%B2%99%E9%BE%992019-11-23/%E3%80%8A%E7%8E%A9%E8%BD%AC%20GIt%20%E5%92%8C%20VSCode%E3%80%8B%E7%A7%8B%E5%AD%A3%E6%B2%99%E9%BE%99%20PPT.pdf) For [高校沙龙](https://ivweb.io/salon201911.html)
+- [云服务 x IDE可以碰撞出哪些火花](https://github.com/cpselvis/sharing/blob/master/ppt/%E5%86%85%E9%83%A8%E5%88%86%E4%BA%AB2019-12-25/%E3%80%8A%E4%BA%91%E6%9C%8D%E5%8A%A1%20x%20IDE%E5%8F%AF%E4%BB%A5%E7%A2%B0%E6%92%9E%E5%87%BA%E5%93%AA%E4%BA%9B%E7%81%AB%E8%8A%B1%E3%80%8B.pdf) For 内部分享
